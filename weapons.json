@@ -1,0 +1,1992 @@
+{
+  "armas": [
+    {
+      "id": "mw3_ar_sva545",
+      "nombre": "SVA 545",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_mtz556",
+      "nombre": "MTZ-556",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_holger556",
+      "nombre": "Holger 556",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_mcw",
+      "nombre": "MCW",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_dg58",
+      "nombre": "DG-58",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_fr556",
+      "nombre": "FR 5.56",
+      "categoria": "Assault Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_ar_ram7",
+      "nombre": "RAM-7",
+      "categoria": "Assault Rifles",
+      "origen": "MW3 (S1)"
+    },
+    {
+      "id": "mw3_ar_bp50",
+      "nombre": "BP50",
+      "categoria": "Assault Rifles",
+      "origen": "MW3 (S2)"
+    },
+    {
+      "id": "mw3_ar_bal27",
+      "nombre": "BAL-27",
+      "categoria": "Assault Rifles",
+      "origen": "MW3 (S3)"
+    },
+    {
+      "id": "mw2_ar_m4",
+      "nombre": "M4",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_taq56",
+      "nombre": "TAQ-56",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_kastov762",
+      "nombre": "Kastov 762",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_m13b",
+      "nombre": "M13B",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_chimera",
+      "nombre": "Chimera",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_tempusrazorback",
+      "nombre": "Tempus Razorback",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_fradvancer",
+      "nombre": "FR Advancer",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_m13c",
+      "nombre": "M13C",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_ar_tr76geist",
+      "nombre": "TR-76 Geist",
+      "categoria": "Assault Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_smg_striker",
+      "nombre": "Striker",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_wspswarm",
+      "nombre": "WSP Swarm",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_wsp9",
+      "nombre": "WSP-9",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_amr9",
+      "nombre": "AMR9",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_rival9",
+      "nombre": "Rival-9",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_striker9",
+      "nombre": "Striker 9",
+      "categoria": "SMGs",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_smg_hrm9",
+      "nombre": "HRM-9",
+      "categoria": "SMGs",
+      "origen": "MW3 (S1 Reloaded)"
+    },
+    {
+      "id": "mw3_smg_ram9",
+      "nombre": "RAM-9",
+      "categoria": "SMGs",
+      "origen": "MW3 (S2)"
+    },
+    {
+      "id": "mw3_smg_fjxhorus",
+      "nombre": "FJX Horus",
+      "categoria": "SMGs",
+      "origen": "MW3 (S3)"
+    },
+    {
+      "id": "mw3_smg_superi46",
+      "nombre": "Superi 46",
+      "categoria": "SMGs",
+      "origen": "MW3 (S4)"
+    },
+    {
+      "id": "mw2_smg_vel46",
+      "nombre": "VEL 46",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_pdsw528",
+      "nombre": "PDSW 528",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_iso45",
+      "nombre": "ISO 45",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_lachalps",
+      "nombre": "Lachmann Sub",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_fsshurricane",
+      "nombre": "FSS Hurricane",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_basp",
+      "nombre": "BAS-P",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_is9mm",
+      "nombre": "ISO 9mm",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_smg_fennec45",
+      "nombre": "Fennec 45",
+      "categoria": "SMGs",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_br_basb",
+      "nombre": "BAS-B",
+      "categoria": "Battle Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_br_sidewinder",
+      "nombre": "Sidewinder",
+      "categoria": "Battle Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_br_mtz762",
+      "nombre": "MTZ-762",
+      "categoria": "Battle Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_br_soasubverter",
+      "nombre": "SOA Subverter",
+      "categoria": "Battle Rifles",
+      "origen": "MW3 (S2)"
+    },
+    {
+      "id": "mw2_br_lachmann762",
+      "nombre": "Lachmann-762",
+      "categoria": "Battle Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_br_cronensquall",
+      "nombre": "Cronen Squall",
+      "categoria": "Battle Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_br_ftacrecon",
+      "nombre": "FTAC Recon",
+      "categoria": "Battle Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_br_so14",
+      "nombre": "SO-14",
+      "categoria": "Battle Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_lmg_pulemyot762",
+      "nombre": "Pulemyot 762",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_lmg_dg58lsw",
+      "nombre": "DG-58 LSW",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_lmg_holger26",
+      "nombre": "Holger 26",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_lmg_bruenmk9",
+      "nombre": "Bruen Mk9",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_lmg_taveradic",
+      "nombre": "TAQ Eradicator",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3 (S1)"
+    },
+    {
+      "id": "mw3_lmg_taqevolvere",
+      "nombre": "TAQ Evolvere",
+      "categoria": "Light Machine Guns",
+      "origen": "MW3 (S1 Reloaded)"
+    },
+    {
+      "id": "mw2_lmg_sakinmg38",
+      "nombre": "Sakin MG38",
+      "categoria": "Light Machine Guns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_lmg_raalmg",
+      "nombre": "RAAL MG",
+      "categoria": "Light Machine Guns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_lmg_hcr56",
+      "nombre": "HCR 56",
+      "categoria": "Light Machine Guns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_lmg_rpk",
+      "nombre": "RPK",
+      "categoria": "Light Machine Guns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_shot_lockwood680",
+      "nombre": "Lockwood 680",
+      "categoria": "Shotguns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_shot_haymaker",
+      "nombre": "Haymaker",
+      "categoria": "Shotguns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_shot_riveter",
+      "nombre": "Riveter",
+      "categoria": "Shotguns",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw2_shot_kvbroadside",
+      "nombre": "KV Broadside",
+      "categoria": "Shotguns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_shot_expedite12",
+      "nombre": "Expedite 12",
+      "categoria": "Shotguns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_shot_bryson800",
+      "nombre": "Bryson 800",
+      "categoria": "Shotguns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_shot_mxguardian",
+      "nombre": "MX Guardian",
+      "categoria": "Shotguns",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_mr_enforcer",
+      "nombre": "KVD Enforcer",
+      "categoria": "Marksman Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_mr_mcw68",
+      "nombre": "MCW 6.8",
+      "categoria": "Marksman Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_mr_dm56",
+      "nombre": "DM56",
+      "categoria": "Marksman Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_mr_mtzinterceptor",
+      "nombre": "MTZ Interceptor",
+      "categoria": "Marksman Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw2_mr_tempustorrent",
+      "nombre": "Tempus Torrent",
+      "categoria": "Marksman Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_mr_ebrr14",
+      "nombre": "EBR-14",
+      "categoria": "Marksman Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_mr_lockwoodmk2",
+      "nombre": "Lockwood MK2",
+      "categoria": "Marksman Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_mr_sa-b50",
+      "nombre": "SA-B 50",
+      "categoria": "Marksman Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_snip_katt_amr",
+      "nombre": "KATT-AMR",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_snip_longbow",
+      "nombre": "Longbow",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_snip_kv_inhibitor",
+      "nombre": "KV Inhibitor",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_snip_xrk_stalker",
+      "nombre": "XRK Stalker",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3 (S1)"
+    },
+    {
+      "id": "mw3_snip_mors",
+      "nombre": "MORS",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3 (S3)"
+    },
+    {
+      "id": "mw3_snip_kar98k",
+      "nombre": "Kar98k",
+      "categoria": "Sniper Rifles",
+      "origen": "MW3 (S4)"
+    },
+    {
+      "id": "mw2_snip_mcpr300",
+      "nombre": "MCPR-300",
+      "categoria": "Sniper Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_snip_fjximperium",
+      "nombre": "FJX Imperium",
+      "categoria": "Sniper Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_snip_victusxmr",
+      "nombre": "Victus XMR",
+      "categoria": "Sniper Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_snip_signal50",
+      "nombre": "Signal 50",
+      "categoria": "Sniper Rifles",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_pist_cor45",
+      "nombre": "COR-45",
+      "categoria": "Pistols",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_pist_renetti",
+      "nombre": "Renetti",
+      "categoria": "Pistols",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_pist_tyr",
+      "nombre": "TYR",
+      "categoria": "Pistols",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw2_pist_p980",
+      "nombre": "P980",
+      "categoria": "Pistols",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_pist_x12",
+      "nombre": "X12",
+      "categoria": "Pistols",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_pist_basilisco",
+      "nombre": "Basilisk",
+      "categoria": "Pistols",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_pist_ftacsiege",
+      "nombre": "FTAC Siege",
+      "categoria": "Pistols",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_pist_9mmdaemon",
+      "nombre": "9mm Daemon",
+      "categoria": "Pistols",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_launch_rgl80",
+      "nombre": "RGL-80",
+      "categoria": "Launchers",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw2_launch_pila",
+      "nombre": "PILA",
+      "categoria": "Launchers",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_launch_strela-p",
+      "nombre": "STRELA-P",
+      "categoria": "Launchers",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_launch_jokr",
+      "nombre": "JOKR",
+      "categoria": "Launchers",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_launch_rpg7",
+      "nombre": "RPG-7",
+      "categoria": "Launchers",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw3_melee_gutter",
+      "nombre": "Gutter Knife",
+      "categoria": "Melee",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_melee_karambit",
+      "nombre": "Karambit",
+      "categoria": "Melee",
+      "origen": "MW3"
+    },
+    {
+      "id": "mw3_melee_gladiator",
+      "nombre": "Gladiator",
+      "categoria": "Melee",
+      "origen": "MW3 (S3)"
+    },
+    {
+      "id": "mw2_melee_combatknife",
+      "nombre": "Combat Knife",
+      "categoria": "Melee",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_melee_dual_kodachis",
+      "nombre": "Dual Kodachis",
+      "categoria": "Melee",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_melee_tonfa",
+      "nombre": "Tonfa",
+      "categoria": "Melee",
+      "origen": "MW2"
+    },
+    {
+      "id": "mw2_melee_pickaxe",
+      "nombre": "Pickaxe",
+      "categoria": "Melee",
+      "origen": "MW2"
+    }
+  ],
+  "camuflajes": {
+    "zombies": [
+      {
+        "nombre": "Mist Red",
+        "arma_asociada": "ISO 45",
+        "mision": "Get 25 headshot kills",
+        "nivel_requerido": 15
+      },
+      {
+        "nombre": "Tiger Wild",
+        "arma_asociada": "BAS-B",
+        "mision": "Get 30 kills while sliding",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Forest Arctic",
+        "arma_asociada": "DG-58 LSW",
+        "mision": "Get 40 kills with attachments equipped",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Urban Pixelated",
+        "arma_asociada": "Lockwood 680",
+        "mision": "Get 35 long-range kills",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Ash Boreal",
+        "arma_asociada": "MCW 6.8",
+        "mision": "Get 20 kills without dying",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Tundra Red",
+        "arma_asociada": "KATT-AMR",
+        "mision": "Get 40 kills with quick shots",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Tiger Amber",
+        "arma_asociada": "RAAL MG",
+        "mision": "Get 18 kills with grenades",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Geometric Mist",
+        "arma_asociada": "KV Broadside",
+        "mision": "Get 55 kills in domination matches",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Forest Crimson",
+        "arma_asociada": "JOKR",
+        "mision": "Get 15 double kills",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Digital Toxic",
+        "arma_asociada": "Karambit",
+        "mision": "Get 10 triple kills",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Platinum Digital",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 90 melee kills",
+        "nivel_requerido": 68
+      },
+      {
+        "nombre": "Digital Prism",
+        "arma_asociada": "SVA 545",
+        "mision": "Get 42 headshot kills",
+        "nivel_requerido": 9
+      },
+      {
+        "nombre": "Tiger Prism",
+        "arma_asociada": "MTZ-556",
+        "mision": "Get 22 kills while sliding",
+        "nivel_requerido": 11
+      },
+      {
+        "nombre": "Forest Prism",
+        "arma_asociada": "Holger 556",
+        "mision": "Get 32 kills with attachments equipped",
+        "nivel_requerido": 13
+      },
+      {
+        "nombre": "Urban Prism",
+        "arma_asociada": "MCW",
+        "mision": "Get 28 long-range kills",
+        "nivel_requerido": 15
+      },
+      {
+        "nombre": "Ash Prism",
+        "arma_asociada": "DG-58",
+        "mision": "Get 16 kills without dying",
+        "nivel_requerido": 17
+      },
+      {
+        "nombre": "Tundra Prism",
+        "arma_asociada": "FR 5.56",
+        "mision": "Get 26 kills with quick shots",
+        "nivel_requerido": 19
+      },
+      {
+        "nombre": "Tiger Prism Blue",
+        "arma_asociada": "RAM-7",
+        "mision": "Get 14 kills with grenades",
+        "nivel_requerido": 21
+      },
+      {
+        "nombre": "Geometric Prism",
+        "arma_asociada": "BP50",
+        "mision": "Get 48 kills in domination matches",
+        "nivel_requerido": 23
+      },
+      {
+        "nombre": "Forest Prism Red",
+        "arma_asociada": "BAL-27",
+        "mision": "Get 12 double kills",
+        "nivel_requerido": 25
+      },
+      {
+        "nombre": "Digital Prism Green",
+        "arma_asociada": "M4",
+        "mision": "Get 9 triple kills",
+        "nivel_requerido": 27
+      },
+      {
+        "nombre": "Tiger Prism Orange",
+        "arma_asociada": "TAQ-56",
+        "mision": "Get 38 kills while aiming down sights",
+        "nivel_requerido": 29
+      },
+      {
+        "nombre": "Forest Prism Blue",
+        "arma_asociada": "Kastov 762",
+        "mision": "Get 24 melee kills",
+        "nivel_requerido": 31
+      },
+      {
+        "nombre": "Digital Prism Pink",
+        "arma_asociada": "M13B",
+        "mision": "Get 31 kills in quick matches",
+        "nivel_requerido": 33
+      },
+      {
+        "nombre": "Geometric Prism Mist",
+        "arma_asociada": "Chimera",
+        "mision": "Get 21 kills with active killstreaks",
+        "nivel_requerido": 35
+      },
+      {
+        "nombre": "Forest Prism Green",
+        "arma_asociada": "Tempus Razorback",
+        "mision": "Get 18 kills with long-range shots",
+        "nivel_requerido": 37
+      },
+      {
+        "nombre": "Tiger Prism White",
+        "arma_asociada": "FR Advancer",
+        "mision": "Get 27 kills in hardcore mode",
+        "nivel_requerido": 39
+      },
+      {
+        "nombre": "Digital Prism Mist",
+        "arma_asociada": "M13C",
+        "mision": "Get 15 kills with explosives",
+        "nivel_requerido": 41
+      },
+      {
+        "nombre": "Forest Prism Mist",
+        "arma_asociada": "TR-76 Geist",
+        "mision": "Get 53 kills in team matches",
+        "nivel_requerido": 43
+      },
+      {
+        "nombre": "Urban Prism Mist",
+        "arma_asociada": "Striker",
+        "mision": "Get 13 kills with long-range shots",
+        "nivel_requerido": 45
+      },
+      {
+        "nombre": "Tiger Prism Ghost",
+        "arma_asociada": "WSP Swarm",
+        "mision": "Get 10 kills with each attachment",
+        "nivel_requerido": 47
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "WSP-9",
+        "mision": "Get 36 kills in domination matches",
+        "nivel_requerido": 49
+      },
+      {
+        "nombre": "Digital Prism Ghost",
+        "arma_asociada": "AMR9",
+        "mision": "Get 25 headshot kills",
+        "nivel_requerido": 51
+      },
+      {
+        "nombre": "Geometric Prism Ghost",
+        "arma_asociada": "Rival-9",
+        "mision": "Get 34 kills in assault matches",
+        "nivel_requerido": 53
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "Striker 9",
+        "mision": "Get 23 kills with killstreaks",
+        "nivel_requerido": 55
+      },
+      {
+        "nombre": "Tiger Prism Ghost",
+        "arma_asociada": "HRM-9",
+        "mision": "Get 15 kills with long-range shots",
+        "nivel_requerido": 57
+      },
+      {
+        "nombre": "Digital Prism Ghost",
+        "arma_asociada": "RAM-9",
+        "mision": "Get 31 kills in extreme mode",
+        "nivel_requerido": 59
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "FJX Horus",
+        "mision": "Get 16 kills with explosives",
+        "nivel_requerido": 61
+      },
+      {
+        "nombre": "Urban Prism Ghost",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 50 kills in team matches",
+        "nivel_requerido": 63
+      },
+      {
+        "nombre": "Tiger Prism Ghost",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 21 kills with long-range shots",
+        "nivel_requerido": 65
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 7 kills with each attachment",
+        "nivel_requerido": 67
+      },
+      {
+        "nombre": "Platinum Prism",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 80 melee kills",
+        "nivel_requerido": 69
+      },
+      {
+        "nombre": "Digital Eclipse",
+        "arma_asociada": "SVA 545",
+        "mision": "Get 55 headshot kills",
+        "nivel_requerido": 10
+      },
+      {
+        "nombre": "Tiger Nebula",
+        "arma_asociada": "MTZ-556",
+        "mision": "Get 25 kills while sliding",
+        "nivel_requerido": 12
+      },
+      {
+        "nombre": "Forest Lightning",
+        "arma_asociada": "Holger 556",
+        "mision": "Get 45 kills with attachments equipped",
+        "nivel_requerido": 14
+      },
+      {
+        "nombre": "Urban Relic",
+        "arma_asociada": "MCW",
+        "mision": "Get 35 long-range kills",
+        "nivel_requerido": 16
+      },
+      {
+        "nombre": "Ash Relic",
+        "arma_asociada": "DG-58",
+        "mision": "Get 22 kills without dying",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Tundra Relic",
+        "arma_asociada": "FR 5.56",
+        "mision": "Get 38 kills with quick shots",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Tiger Relic",
+        "arma_asociada": "RAM-7",
+        "mision": "Get 15 kills with grenades",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Geometric Relic",
+        "arma_asociada": "BP50",
+        "mision": "Get 65 kills in domination matches",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Forest Relic",
+        "arma_asociada": "BAL-27",
+        "mision": "Get 18 double kills",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Digital Relic",
+        "arma_asociada": "M4",
+        "mision": "Get 8 triple kills",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Tiger Relic Golden",
+        "arma_asociada": "TAQ-56",
+        "mision": "Get 60 kills while aiming down sights",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Forest Relic Mist",
+        "arma_asociada": "Kastov 762",
+        "mision": "Get 35 melee kills",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Digital Relic Wild",
+        "arma_asociada": "M13B",
+        "mision": "Get 50 kills in quick matches",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Geometric Relic Amber",
+        "arma_asociada": "Chimera",
+        "mision": "Get 28 kills with active killstreaks",
+        "nivel_requerido": 36
+      },
+      {
+        "nombre": "Forest Relic Winter",
+        "arma_asociada": "Tempus Razorback",
+        "mision": "Get 24 kills with long-range shots",
+        "nivel_requerido": 38
+      },
+      {
+        "nombre": "Tiger Relic Emerald",
+        "arma_asociada": "FR Advancer",
+        "mision": "Get 40 kills in hardcore mode",
+        "nivel_requerido": 40
+      },
+      {
+        "nombre": "Digital Relic Cobalt",
+        "arma_asociada": "M13C",
+        "mision": "Get 18 kills with explosives",
+        "nivel_requerido": 42
+      },
+      {
+        "nombre": "Forest Relic Flame",
+        "arma_asociada": "TR-76 Geist",
+        "mision": "Get 70 kills in team matches",
+        "nivel_requerido": 44
+      },
+      {
+        "nombre": "Urban Relic Camo",
+        "arma_asociada": "Striker",
+        "mision": "Get 20 kills with long-range shots",
+        "nivel_requerido": 46
+      },
+      {
+        "nombre": "Tiger Relic Orange",
+        "arma_asociada": "WSP Swarm",
+        "mision": "Get 7 kills with each attachment",
+        "nivel_requerido": 48
+      },
+      {
+        "nombre": "Forest Relic Ghost",
+        "arma_asociada": "WSP-9",
+        "mision": "Get 60 kills in domination matches",
+        "nivel_requerido": 50
+      },
+      {
+        "nombre": "Digital Relic Desert",
+        "arma_asociada": "AMR9",
+        "mision": "Get 35 headshot kills",
+        "nivel_requerido": 52
+      },
+      {
+        "nombre": "Geometric Relic Ruby",
+        "arma_asociada": "Rival-9",
+        "mision": "Get 55 kills in assault matches",
+        "nivel_requerido": 54
+      },
+      {
+        "nombre": "Forest Relic Jade",
+        "arma_asociada": "Striker 9",
+        "mision": "Get 30 kills with killstreaks",
+        "nivel_requerido": 56
+      },
+      {
+        "nombre": "Tiger Relic White",
+        "arma_asociada": "HRM-9",
+        "mision": "Get 25 kills with long-range shots",
+        "nivel_requerido": 58
+      },
+      {
+        "nombre": "Digital Relic Mist",
+        "arma_asociada": "RAM-9",
+        "mision": "Get 45 kills in extreme mode",
+        "nivel_requerido": 60
+      },
+      {
+        "nombre": "Forest Relic Shadow",
+        "arma_asociada": "FJX Horus",
+        "mision": "Get 20 kills with explosives",
+        "nivel_requerido": 62
+      },
+      {
+        "nombre": "Urban Relic Wild",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 70 kills in team matches",
+        "nivel_requerido": 64
+      },
+      {
+        "nombre": "Tiger Relic Blue",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 25 kills with long-range shots",
+        "nivel_requerido": 66
+      },
+      {
+        "nombre": "Forest Relic Ash",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 8 kills with each attachment",
+        "nivel_requerido": 68
+      },
+      {
+        "nombre": "Platinum Relic",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 110 melee kills",
+        "nivel_requerido": 70
+      }
+    ],
+    "multijugador": [
+      {
+        "nombre": "Aurora Digital",
+        "arma_asociada": "Lachmann Sub",
+        "mision": "Get 50 headshot kills",
+        "nivel_requerido": 12
+      },
+      {
+        "nombre": "Tiger Solar",
+        "arma_asociada": "FSS Hurricane",
+        "mision": "Get 28 kills while sliding",
+        "nivel_requerido": 14
+      },
+      {
+        "nombre": "Forest Gloomy",
+        "arma_asociada": "BAS-P",
+        "mision": "Get 38 kills with attachments equipped",
+        "nivel_requerido": 16
+      },
+      {
+        "nombre": "Urban Pixel",
+        "arma_asociada": "ISO 9mm",
+        "mision": "Get 32 long-range kills",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Ash Boreal II",
+        "arma_asociada": "Fennec 45",
+        "mision": "Get 18 kills without dying",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Tundra Red II",
+        "arma_asociada": "Sidewinder",
+        "mision": "Get 30 kills with quick shots",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Tiger Amber II",
+        "arma_asociada": "MTZ-762",
+        "mision": "Get 16 kills with grenades",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Geometric Mist II",
+        "arma_asociada": "SOA Subverter",
+        "mision": "Get 60 kills in domination matches",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Forest Crimson II",
+        "arma_asociada": "Lachmann-762",
+        "mision": "Get 18 double kills",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Digital Toxic II",
+        "arma_asociada": "Cronen Squall",
+        "mision": "Get 12 triple kills",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Tiger Ghost",
+        "arma_asociada": "FTAC Recon",
+        "mision": "Get 45 kills while aiming down sights",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Forest Arctic II",
+        "arma_asociada": "SO-14",
+        "mision": "Get 28 melee kills",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Digital Flame",
+        "arma_asociada": "Pulemyot 762",
+        "mision": "Get 38 kills in quick matches",
+        "nivel_requerido": 36
+      },
+      {
+        "nombre": "Geometric Emerald",
+        "arma_asociada": "Holger 26",
+        "mision": "Get 22 kills with active killstreaks",
+        "nivel_requerido": 38
+      },
+      {
+        "nombre": "Forest Ruby",
+        "arma_asociada": "Bruen Mk9",
+        "mision": "Get 20 kills with long-range shots",
+        "nivel_requerido": 40
+      },
+      {
+        "nombre": "Tiger Shadow",
+        "arma_asociada": "TAQ Eradicator",
+        "mision": "Get 30 kills in hardcore mode",
+        "nivel_requerido": 42
+      },
+      {
+        "nombre": "Digital Jade",
+        "arma_asociada": "TAQ Evolvere",
+        "mision": "Get 15 kills with explosives",
+        "nivel_requerido": 44
+      },
+      {
+        "nombre": "Forest Golden",
+        "arma_asociada": "Sakin MG38",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 46
+      },
+      {
+        "nombre": "Urban Mist",
+        "arma_asociada": "HCR 56",
+        "mision": "Get 15 kills with long-range shots",
+        "nivel_requerido": 48
+      },
+      {
+        "nombre": "Tiger Pixelated",
+        "arma_asociada": "RPK",
+        "mision": "Get 10 kills with each attachment",
+        "nivel_requerido": 50
+      },
+      {
+        "nombre": "Forest Toxic",
+        "arma_asociada": "Haymaker",
+        "mision": "Get 40 kills in domination matches",
+        "nivel_requerido": 51
+      },
+      {
+        "nombre": "Digital Ghost",
+        "arma_asociada": "Riveter",
+        "mision": "Get 30 headshot kills",
+        "nivel_requerido": 53
+      },
+      {
+        "nombre": "Geometric White",
+        "arma_asociada": "Expedite 12",
+        "mision": "Get 40 kills in assault matches",
+        "nivel_requerido": 55
+      },
+      {
+        "nombre": "Forest Solar",
+        "arma_asociada": "Bryson 800",
+        "mision": "Get 25 kills with killstreaks",
+        "nivel_requerido": 57
+      },
+      {
+        "nombre": "Tiger Jade",
+        "arma_asociada": "MX Guardian",
+        "mision": "Get 20 kills with long-range shots",
+        "nivel_requerido": 59
+      },
+      {
+        "nombre": "Digital Ruby",
+        "arma_asociada": "KVD Enforcer",
+        "mision": "Get 35 kills in extreme mode",
+        "nivel_requerido": 61
+      },
+      {
+        "nombre": "Forest Pixelated",
+        "arma_asociada": "DM56",
+        "mision": "Get 18 kills with explosives",
+        "nivel_requerido": 63
+      },
+      {
+        "nombre": "Urban Arctic",
+        "arma_asociada": "MTZ Interceptor",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 65
+      },
+      {
+        "nombre": "Tiger Ash",
+        "arma_asociada": "Tempus Torrent",
+        "mision": "Get 22 kills with long-range shots",
+        "nivel_requerido": 67
+      },
+      {
+        "nombre": "Forest Boreal",
+        "arma_asociada": "EBR-14",
+        "mision": "Get 8 kills with each attachment",
+        "nivel_requerido": 69
+      },
+      {
+        "nombre": "Platinum Digital",
+        "arma_asociada": "Lockwood MK2",
+        "mision": "Get 100 melee kills",
+        "nivel_requerido": 71
+      },
+      {
+        "nombre": "Digital Prism",
+        "arma_asociada": "SA-B 50",
+        "mision": "Get 50 headshot kills",
+        "nivel_requerido": 12
+      },
+      {
+        "nombre": "Tiger Prism",
+        "arma_asociada": "Longbow",
+        "mision": "Get 28 kills while sliding",
+        "nivel_requerido": 14
+      },
+      {
+        "nombre": "Forest Prism",
+        "arma_asociada": "KV Inhibitor",
+        "mision": "Get 38 kills with attachments equipped",
+        "nivel_requerido": 16
+      },
+      {
+        "nombre": "Urban Prism",
+        "arma_asociada": "XRK Stalker",
+        "mision": "Get 32 long-range kills",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Ash Prism",
+        "arma_asociada": "MORS",
+        "mision": "Get 18 kills without dying",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Tundra Prism",
+        "arma_asociada": "Kar98k",
+        "mision": "Get 30 kills with quick shots",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Tiger Prism Blue",
+        "arma_asociada": "MCPR-300",
+        "mision": "Get 16 kills with grenades",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Geometric Prism",
+        "arma_asociada": "FJX Imperium",
+        "mision": "Get 60 kills in domination matches",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Forest Prism Red",
+        "arma_asociada": "Victus XMR",
+        "mision": "Get 18 double kills",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Digital Prism Green",
+        "arma_asociada": "Signal 50",
+        "mision": "Get 12 triple kills",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Tiger Prism Orange",
+        "arma_asociada": "COR-45",
+        "mision": "Get 45 kills while aiming down sights",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Forest Prism Blue",
+        "arma_asociada": "Renetti",
+        "mision": "Get 30 melee kills",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Digital Prism Pink",
+        "arma_asociada": "TYR",
+        "mision": "Get 40 kills in quick matches",
+        "nivel_requerido": 36
+      },
+      {
+        "nombre": "Geometric Prism Mist",
+        "arma_asociada": "P980",
+        "mision": "Get 25 kills with active killstreaks",
+        "nivel_requerido": 38
+      },
+      {
+        "nombre": "Forest Prism Green",
+        "arma_asociada": "X12",
+        "mision": "Get 22 kills with long-range shots",
+        "nivel_requerido": 40
+      },
+      {
+        "nombre": "Tiger Prism White",
+        "arma_asociada": "Basilisk",
+        "mision": "Get 35 kills in hardcore mode",
+        "nivel_requerido": 42
+      },
+      {
+        "nombre": "Digital Prism Mist",
+        "arma_asociada": "FTAC Siege",
+        "mision": "Get 18 kills with explosives",
+        "nivel_requerido": 44
+      },
+      {
+        "nombre": "Forest Prism Mist",
+        "arma_asociada": "9mm Daemon",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 46
+      },
+      {
+        "nombre": "Urban Prism Mist",
+        "arma_asociada": "RGL-80",
+        "mision": "Get 18 kills with long-range shots",
+        "nivel_requerido": 48
+      },
+      {
+        "nombre": "Tiger Prism Ghost",
+        "arma_asociada": "PILA",
+        "mision": "Get 12 kills with each attachment",
+        "nivel_requerido": 50
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "STRELA-P",
+        "mision": "Get 40 kills in domination matches",
+        "nivel_requerido": 52
+      },
+      {
+        "nombre": "Digital Prism Ghost",
+        "arma_asociada": "RPG-7",
+        "mision": "Get 30 headshot kills",
+        "nivel_requerido": 54
+      },
+      {
+        "nombre": "Geometric Prism Ghost",
+        "arma_asociada": "Gutter Knife",
+        "mision": "Get 40 kills in assault matches",
+        "nivel_requerido": 56
+      },
+      {
+        "nombre": "Forest Prism Ghost",
+        "arma_asociada": "Gladiator",
+        "mision": "Get 28 kills with killstreaks",
+        "nivel_requerido": 58
+      },
+      {
+        "nombre": "Tiger Prism Ghost",
+        "arma_asociada": "Combat Knife",
+        "mision": "Get 20 kills with long-range shots",
+        "nivel_requerido": 60
+      },
+      {
+        "nombre": "Digital Prism Ghost II",
+        "arma_asociada": "Dual Kodachis",
+        "mision": "Get 35 kills in extreme mode",
+        "nivel_requerido": 62
+      },
+      {
+        "nombre": "Forest Prism Ghost II",
+        "arma_asociada": "Tonfa",
+        "mision": "Get 20 kills with explosives",
+        "nivel_requerido": 64
+      },
+      {
+        "nombre": "Urban Arctic II",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 65
+      },
+      {
+        "nombre": "Tiger Ash II",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 22 kills with long-range shots",
+        "nivel_requerido": 67
+      },
+      {
+        "nombre": "Forest Boreal II",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 8 kills with each attachment",
+        "nivel_requerido": 69
+      },
+      {
+        "nombre": "Platinum Digital II",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 100 melee kills",
+        "nivel_requerido": 71
+      },
+      {
+        "nombre": "Digital Prism II",
+        "arma_asociada": "SVA 545",
+        "mision": "Get 50 headshot kills",
+        "nivel_requerido": 12
+      },
+      {
+        "nombre": "Tiger Prism II",
+        "arma_asociada": "MTZ-556",
+        "mision": "Get 28 kills while sliding",
+        "nivel_requerido": 14
+      },
+      {
+        "nombre": "Forest Prism II",
+        "arma_asociada": "Holger 556",
+        "mision": "Get 38 kills with attachments equipped",
+        "nivel_requerido": 16
+      },
+      {
+        "nombre": "Urban Prism II",
+        "arma_asociada": "MCW",
+        "mision": "Get 32 long-range kills",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Ash Prism II",
+        "arma_asociada": "DG-58",
+        "mision": "Get 18 kills without dying",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Tundra Prism II",
+        "arma_asociada": "FR 5.56",
+        "mision": "Get 30 kills with quick shots",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Tiger Prism Blue II",
+        "arma_asociada": "RAM-7",
+        "mision": "Get 16 kills with grenades",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Geometric Prism II",
+        "arma_asociada": "BP50",
+        "mision": "Get 60 kills in domination matches",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Forest Prism Red II",
+        "arma_asociada": "BAL-27",
+        "mision": "Get 18 double kills",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Digital Prism Green II",
+        "arma_asociada": "M4",
+        "mision": "Get 12 triple kills",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Tiger Prism Orange II",
+        "arma_asociada": "TAQ-56",
+        "mision": "Get 45 kills while aiming down sights",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Forest Prism Blue II",
+        "arma_asociada": "Kastov 762",
+        "mision": "Get 30 melee kills",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Digital Prism Pink II",
+        "arma_asociada": "M13B",
+        "mision": "Get 40 kills in quick matches",
+        "nivel_requerido": 36
+      },
+      {
+        "nombre": "Geometric Prism Mist II",
+        "arma_asociada": "Chimera",
+        "mision": "Get 25 kills with active killstreaks",
+        "nivel_requerido": 38
+      },
+      {
+        "nombre": "Forest Prism Green II",
+        "arma_asociada": "Tempus Razorback",
+        "mision": "Get 22 kills with long-range shots",
+        "nivel_requerido": 40
+      },
+      {
+        "nombre": "Tiger Prism White II",
+        "arma_asociada": "FR Advancer",
+        "mision": "Get 35 kills in hardcore mode",
+        "nivel_requerido": 42
+      },
+      {
+        "nombre": "Digital Prism Mist II",
+        "arma_asociada": "M13C",
+        "mision": "Get 18 kills with explosives",
+        "nivel_requerido": 44
+      },
+      {
+        "nombre": "Forest Prism Mist II",
+        "arma_asociada": "TR-76 Geist",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 46
+      },
+      {
+        "nombre": "Urban Prism Mist II",
+        "arma_asociada": "Striker",
+        "mision": "Get 18 kills with long-range shots",
+        "nivel_requerido": 48
+      },
+      {
+        "nombre": "Tiger Prism Ghost II",
+        "arma_asociada": "WSP Swarm",
+        "mision": "Get 12 kills with each attachment",
+        "nivel_requerido": 50
+      },
+      {
+        "nombre": "Forest Prism Ghost II",
+        "arma_asociada": "WSP-9",
+        "mision": "Get 40 kills in domination matches",
+        "nivel_requerido": 52
+      },
+      {
+        "nombre": "Digital Prism Ghost II",
+        "arma_asociada": "AMR9",
+        "mision": "Get 30 headshot kills",
+        "nivel_requerido": 54
+      },
+      {
+        "nombre": "Geometric Prism Ghost II",
+        "arma_asociada": "Rival-9",
+        "mision": "Get 40 kills in assault matches",
+        "nivel_requerido": 56
+      },
+      {
+        "nombre": "Forest Prism Ghost II",
+        "arma_asociada": "Striker 9",
+        "mision": "Get 28 kills with killstreaks",
+        "nivel_requerido": 58
+      },
+      {
+        "nombre": "Tiger Prism Ghost II",
+        "arma_asociada": "HRM-9",
+        "mision": "Get 20 kills with long-range shots",
+        "nivel_requerido": 60
+      },
+      {
+        "nombre": "Digital Prism Ghost II",
+        "arma_asociada": "RAM-9",
+        "mision": "Get 35 kills in extreme mode",
+        "nivel_requerido": 62
+      },
+      {
+        "nombre": "Forest Prism Ghost II",
+        "arma_asociada": "FJX Horus",
+        "mision": "Get 20 kills with explosives",
+        "nivel_requerido": 64
+      },
+      {
+        "nombre": "Urban Prism Ghost II",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 60 kills in team matches",
+        "nivel_requerido": 66
+      },
+      {
+        "nombre": "Tiger Prism Ghost II",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 25 kills with long-range shots",
+        "nivel_requerido": 68
+      },
+      {
+        "nombre": "Forest Prism Ghost II",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 10 kills with each attachment",
+        "nivel_requerido": 70
+      },
+      {
+        "nombre": "Platinum Prism II",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 120 melee kills",
+        "nivel_requerido": 72
+      },
+      {
+        "nombre": "Digital Eclipse III",
+        "arma_asociada": "SVA 545",
+        "mision": "Get 65 headshot kills",
+        "nivel_requerido": 13
+      }
+    ],
+    "campaña": [
+      {
+        "nombre": "Forest Ghost",
+        "arma_asociada": "Sakin MG38",
+        "mision": "Get 30 melee kills",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Tiger Nebula III",
+        "arma_asociada": "MTZ-556",
+        "mision": "Get 35 kills while sliding",
+        "nivel_requerido": 15
+      },
+      {
+        "nombre": "Forest Lightning III",
+        "arma_asociada": "Holger 556",
+        "mision": "Get 55 kills with attachments equipped",
+        "nivel_requerido": 17
+      },
+      {
+        "nombre": "Urban Relic III",
+        "arma_asociada": "MCW",
+        "mision": "Get 45 long-range kills",
+        "nivel_requerido": 19
+      },
+      {
+        "nombre": "Ash Relic III",
+        "arma_asociada": "DG-58",
+        "mision": "Get 28 kills without dying",
+        "nivel_requerido": 21
+      },
+      {
+        "nombre": "Tundra Relic III",
+        "arma_asociada": "FR 5.56",
+        "mision": "Get 48 kills with quick shots",
+        "nivel_requerido": 23
+      },
+      {
+        "nombre": "Tiger Relic III",
+        "arma_asociada": "RAM-7",
+        "mision": "Get 25 kills with grenades",
+        "nivel_requerido": 25
+      },
+      {
+        "nombre": "Geometric Relic III",
+        "arma_asociada": "BP50",
+        "mision": "Get 75 kills in domination matches",
+        "nivel_requerido": 27
+      },
+      {
+        "nombre": "Forest Relic III",
+        "arma_asociada": "BAL-27",
+        "mision": "Get 28 double kills",
+        "nivel_requerido": 29
+      },
+      {
+        "nombre": "Digital Relic III",
+        "arma_asociada": "M4",
+        "mision": "Get 12 triple kills",
+        "nivel_requerido": 31
+      },
+      {
+        "nombre": "Tiger Relic Golden III",
+        "arma_asociada": "TAQ-56",
+        "mision": "Get 70 kills while aiming down sights",
+        "nivel_requerido": 33
+      },
+      {
+        "nombre": "Forest Relic Mist III",
+        "arma_asociada": "Kastov 762",
+        "mision": "Get 45 melee kills",
+        "nivel_requerido": 35
+      },
+      {
+        "nombre": "Digital Relic Wild III",
+        "arma_asociada": "M13B",
+        "mision": "Get 60 kills in quick matches",
+        "nivel_requerido": 37
+      },
+      {
+        "nombre": "Geometric Relic Amber III",
+        "arma_asociada": "Chimera",
+        "mision": "Get 38 kills with active killstreaks",
+        "nivel_requerido": 39
+      },
+      {
+        "nombre": "Forest Relic Winter III",
+        "arma_asociada": "Tempus Razorback",
+        "mision": "Get 34 kills with long-range shots",
+        "nivel_requerido": 41
+      },
+      {
+        "nombre": "Tiger Relic Emerald III",
+        "arma_asociada": "FR Advancer",
+        "mision": "Get 50 kills in hardcore mode",
+        "nivel_requerido": 43
+      },
+      {
+        "nombre": "Digital Relic Cobalt III",
+        "arma_asociada": "M13C",
+        "mision": "Get 28 kills with explosives",
+        "nivel_requerido": 45
+      },
+      {
+        "nombre": "Forest Relic Flame III",
+        "arma_asociada": "TR-76 Geist",
+        "mision": "Get 80 kills in team matches",
+        "nivel_requerido": 47
+      },
+      {
+        "nombre": "Urban Relic Camo III",
+        "arma_asociada": "Striker",
+        "mision": "Get 30 kills with long-range shots",
+        "nivel_requerido": 49
+      },
+      {
+        "nombre": "Tiger Relic Orange III",
+        "arma_asociada": "WSP Swarm",
+        "mision": "Get 17 kills with each attachment",
+        "nivel_requerido": 51
+      },
+      {
+        "nombre": "Forest Relic Ghost III",
+        "arma_asociada": "WSP-9",
+        "mision": "Get 80 kills in domination matches",
+        "nivel_requerido": 53
+      },
+      {
+        "nombre": "Digital Relic Desert III",
+        "arma_asociada": "AMR9",
+        "mision": "Get 45 headshot kills",
+        "nivel_requerido": 55
+      },
+      {
+        "nombre": "Geometric Relic Ruby III",
+        "arma_asociada": "Rival-9",
+        "mision": "Get 75 kills in assault matches",
+        "nivel_requerido": 57
+      },
+      {
+        "nombre": "Forest Relic Jade III",
+        "arma_asociada": "Striker 9",
+        "mision": "Get 40 kills with killstreaks",
+        "nivel_requerido": 59
+      },
+      {
+        "nombre": "Tiger Relic White III",
+        "arma_asociada": "HRM-9",
+        "mision": "Get 35 kills with long-range shots",
+        "nivel_requerido": 61
+      },
+      {
+        "nombre": "Digital Relic Mist III",
+        "arma_asociada": "RAM-9",
+        "mision": "Get 55 kills in extreme mode",
+        "nivel_requerido": 63
+      },
+      {
+        "nombre": "Forest Relic Shadow III",
+        "arma_asociada": "FJX Horus",
+        "mision": "Get 30 kills with explosives",
+        "nivel_requerido": 65
+      },
+      {
+        "nombre": "Urban Relic Wild III",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 80 kills in team matches",
+        "nivel_requerido": 67
+      },
+      {
+        "nombre": "Tiger Relic Blue III",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 35 kills with long-range shots",
+        "nivel_requerido": 69
+      },
+      {
+        "nombre": "Forest Relic Ash III",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 18 kills with each attachment",
+        "nivel_requerido": 71
+      },
+      {
+        "nombre": "Platinum Relic III",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 130 melee kills",
+        "nivel_requerido": 73
+      },
+      {
+        "nombre": "Digital Prism Ghost X",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 200 melee kills",
+        "nivel_requerido": 120
+      },
+      {
+        "nombre": "Digital Eclipse IV",
+        "arma_asociada": "SVA 545",
+        "mision": "Get 75 headshot kills",
+        "nivel_requerido": 16
+      },
+      {
+        "nombre": "Tiger Nebula IV",
+        "arma_asociada": "MTZ-556",
+        "mision": "Get 40 kills while sliding",
+        "nivel_requerido": 18
+      },
+      {
+        "nombre": "Forest Lightning IV",
+        "arma_asociada": "Holger 556",
+        "mision": "Get 65 kills with attachments equipped",
+        "nivel_requerido": 20
+      },
+      {
+        "nombre": "Urban Relic IV",
+        "arma_asociada": "MCW",
+        "mision": "Get 55 long-range kills",
+        "nivel_requerido": 22
+      },
+      {
+        "nombre": "Ash Relic IV",
+        "arma_asociada": "DG-58",
+        "mision": "Get 34 kills without dying",
+        "nivel_requerido": 24
+      },
+      {
+        "nombre": "Tundra Relic IV",
+        "arma_asociada": "FR 5.56",
+        "mision": "Get 58 kills with quick shots",
+        "nivel_requerido": 26
+      },
+      {
+        "nombre": "Tiger Relic IV",
+        "arma_asociada": "RAM-7",
+        "mision": "Get 30 kills with grenades",
+        "nivel_requerido": 28
+      },
+      {
+        "nombre": "Geometric Relic IV",
+        "arma_asociada": "BP50",
+        "mision": "Get 85 kills in domination matches",
+        "nivel_requerido": 30
+      },
+      {
+        "nombre": "Forest Relic IV",
+        "arma_asociada": "BAL-27",
+        "mision": "Get 38 double kills",
+        "nivel_requerido": 32
+      },
+      {
+        "nombre": "Digital Relic IV",
+        "arma_asociada": "M4",
+        "mision": "Get 15 triple kills",
+        "nivel_requerido": 34
+      },
+      {
+        "nombre": "Tiger Relic Golden IV",
+        "arma_asociada": "TAQ-56",
+        "mision": "Get 80 kills while aiming down sights",
+        "nivel_requerido": 36
+      },
+      {
+        "nombre": "Forest Relic Mist IV",
+        "arma_asociada": "Kastov 762",
+        "mision": "Get 55 melee kills",
+        "nivel_requerido": 38
+      },
+      {
+        "nombre": "Digital Relic Wild IV",
+        "arma_asociada": "M13B",
+        "mision": "Get 70 kills in quick matches",
+        "nivel_requerido": 40
+      },
+      {
+        "nombre": "Geometric Relic Amber IV",
+        "arma_asociada": "Chimera",
+        "mision": "Get 48 kills with active killstreaks",
+        "nivel_requerido": 42
+      },
+      {
+        "nombre": "Forest Relic Winter IV",
+        "arma_asociada": "Tempus Razorback",
+        "mision": "Get 44 kills with long-range shots",
+        "nivel_requerido": 44
+      },
+      {
+        "nombre": "Tiger Relic Emerald IV",
+        "arma_asociada": "FR Advancer",
+        "mision": "Get 60 kills in hardcore mode",
+        "nivel_requerido": 46
+      },
+      {
+        "nombre": "Digital Relic Cobalt IV",
+        "arma_asociada": "M13C",
+        "mision": "Get 38 kills with explosives",
+        "nivel_requerido": 48
+      },
+      {
+        "nombre": "Forest Relic Flame IV",
+        "arma_asociada": "TR-76 Geist",
+        "mision": "Get 90 kills in team matches",
+        "nivel_requerido": 50
+      },
+      {
+        "nombre": "Urban Relic Camo IV",
+        "arma_asociada": "Striker",
+        "mision": "Get 40 kills with long-range shots",
+        "nivel_requerido": 52
+      },
+      {
+        "nombre": "Tiger Relic Orange IV",
+        "arma_asociada": "WSP Swarm",
+        "mision": "Get 27 kills with each attachment",
+        "nivel_requerido": 54
+      },
+      {
+        "nombre": "Forest Relic Ghost IV",
+        "arma_asociada": "WSP-9",
+        "mision": "Get 100 kills in domination matches",
+        "nivel_requerido": 56
+      },
+      {
+        "nombre": "Digital Relic Desert IV",
+        "arma_asociada": "AMR9",
+        "mision": "Get 55 headshot kills",
+        "nivel_requerido": 58
+      },
+      {
+        "nombre": "Geometric Relic Ruby IV",
+        "arma_asociada": "Rival-9",
+        "mision": "Get 95 kills in assault matches",
+        "nivel_requerido": 60
+      },
+      {
+        "nombre": "Forest Relic Jade IV",
+        "arma_asociada": "Striker 9",
+        "mision": "Get 50 kills with killstreaks",
+        "nivel_requerido": 62
+      },
+      {
+        "nombre": "Tiger Relic White IV",
+        "arma_asociada": "HRM-9",
+        "mision": "Get 45 kills with long-range shots",
+        "nivel_requerido": 64
+      },
+      {
+        "nombre": "Digital Relic Mist IV",
+        "arma_asociada": "RAM-9",
+        "mision": "Get 65 kills in extreme mode",
+        "nivel_requerido": 66
+      },
+      {
+        "nombre": "Forest Relic Shadow IV",
+        "arma_asociada": "FJX Horus",
+        "mision": "Get 40 kills with explosives",
+        "nivel_requerido": 68
+      },
+      {
+        "nombre": "Urban Relic Wild IV",
+        "arma_asociada": "Superi 46",
+        "mision": "Get 90 kills in team matches",
+        "nivel_requerido": 70
+      },
+      {
+        "nombre": "Tiger Relic Blue IV",
+        "arma_asociada": "VEL 46",
+        "mision": "Get 45 kills with long-range shots",
+        "nivel_requerido": 72
+      },
+      {
+        "nombre": "Forest Relic Ash IV",
+        "arma_asociada": "PDSW 528",
+        "mision": "Get 28 kills with each attachment",
+        "nivel_requerido": 74
+      },
+      {
+        "nombre": "Platinum Relic IV",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 140 melee kills",
+        "nivel_requerido": 76
+      },
+      {
+        "nombre": "Digital Prism Ghost XX",
+        "arma_asociada": "Pickaxe",
+        "mision": "Get 300 melee kills",
+        "nivel_requerido": 150
+      }
+    ]
+  }
+}

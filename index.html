@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MW3 Camo Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <img id="logo-cod" src="Call_of_Duty_Modern_Warfare_III_2023_Logo_black.png" alt="CoD MW3 Logo" style="display:none;">
+    <div id="music-control" aria-label="Music volume control">
+        <span id="music-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <path d="M9 18V6l10-2v12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="7" cy="18" r="3" fill="currentColor"/>
+                <circle cx="17" cy="16" r="3" fill="currentColor"/>
+            </svg>
+        </span>
+        <input id="music-volume-slider" type="range" min="0" max="100" value="45" step="1" aria-label="Music volume">
+        <button id="music-mute-btn" type="button" aria-label="Mute music" aria-pressed="false">Mute</button>
+        <span id="music-volume-value">45%</span>
+    </div>
+    <a id="credit-cod" href="https://www.linkedin.com/in/santiago-peinador-aguirre/" target="_blank" rel="noopener noreferrer">Created by: Santiago Peinador</a>
+    <div id="login-section" style="display:none;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;">
+        <div id="login-box" style="background:rgba(24,18,11,0.98);padding:2.5rem 2rem 2rem 2rem;border-radius:18px;box-shadow:0 8px 32px 0 rgba(0,0,0,0.45);border:1.5px solid #bfa14a;max-width:400px;margin:0 auto;color:#ffe082;font-family:'Segoe UI',Arial,sans-serif;">
+            <h2 style="color:#ffe082;text-align:center;margin-bottom:1.5rem;">CoD MW3 2024 Camo Tracker</h2>
+            <label for="username-input" style="font-size:1.1rem;">Enter your username:</label>
+            <input id="username-input" type="text" style="margin:1rem 0;padding:0.7rem 1rem;font-size:1.1rem;border-radius:8px;border:1.5px solid #bfa14a;width:100%;box-sizing:border-box;background:#18120b;color:#ffe082;">
+            <div style="display:flex;gap:0.7rem;flex-wrap:wrap;">
+                <button id="login-btn" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;border:none;border-radius:8px;cursor:pointer;transition:background 0.2s,transform 0.2s;font-weight:bold;font-size:1.05rem;padding:0.9rem 1rem;flex:1;min-width:160px;">Linked Users Database</button>
+                <button id="register-btn" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;border:none;border-radius:8px;cursor:pointer;transition:background 0.2s,transform 0.2s;font-weight:bold;font-size:1.05rem;padding:0.9rem 1rem;flex:1;min-width:120px;">Register</button>
+            </div>
+        </div>
+    </div>
+    <div style="position:fixed;top:2vh;left:2vw;z-index:20000;display:flex;flex-direction:column;align-items:start;gap:0.7em;">
+        <button id="main-area-btn" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;padding:0.7em 1em;border-radius:50%;border:none;box-shadow:0 2px 12px rgba(0,0,0,0.18);cursor:pointer;transition:background 0.3s;display:flex;align-items:center;justify-content:center;width:48px;height:48px;min-width:48px;min-height:48px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"><path d="M3 11.5L12 4L21 11.5" stroke="#18120b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 10V19C5 19.5523 5.44772 20 6 20H10V15H14V20H18C18.5523 20 19 19.5523 19 19V10" stroke="#18120b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+    </div>
+    <div style="position:fixed;top:2vh;right:2vw;z-index:10000;display:flex;flex-direction:column;align-items:end;gap:0.7em;">
+        <button id="user-base-btn" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;font-family:'Montserrat', 'Segoe UI', Arial, sans-serif;font-weight:600;font-size:1.1rem;padding:0.7em 1.5em;border-radius:14px;border:none;box-shadow:0 2px 12px rgba(0,0,0,0.18);cursor:pointer;transition:background 0.3s;">Linked Users Database</button>
+        <button id="login-toggle-btn" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;font-family:'Montserrat', 'Segoe UI', Arial, sans-serif;font-weight:600;font-size:1.1rem;padding:0.7em 1.5em;border-radius:14px;border:none;box-shadow:0 2px 12px rgba(0,0,0,0.18);cursor:pointer;transition:background 0.3s;">Sign in</button>
+    </div>
+    <div id="user-base-modal" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:300;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
+        <div style="background:rgba(24,18,11,0.98);padding:2.5rem 2rem 2rem 2rem;border-radius:18px;box-shadow:0 8px 32px 0 rgba(0,0,0,0.45);border:1.5px solid #bfa14a;max-width:400px;margin:0 auto;color:#ffe082;font-family:'Segoe UI',Arial,sans-serif;display:flex;flex-direction:column;align-items:center;">
+            <h3 style="color:#ffe082;margin-bottom:1.2rem;">Registered Users</h3>
+            <ul id="user-list" style="list-style:none;padding:0;width:100%;margin-bottom:1.5rem;"></ul>
+            <button id="close-user-base" style="background:linear-gradient(90deg,#ffe082 0%,#bfa14a 100%);color:#18120b;border:none;border-radius:8px;cursor:pointer;transition:background 0.2s,transform 0.2s;font-weight:bold;font-size:1.1rem;padding:0.7em 2em;">Close</button>
+        </div>
+    </div>
+    <div id="area-selector-section" style="display:none;min-height:100vh;align-items:center;justify-content:center;padding:7rem 1rem 2rem 1rem;box-sizing:border-box;">
+        <div id="area-selector-card">
+            <h2>
+                <span style="display:block;font-size:1.1em;color:#ffe082;margin-bottom:0.5em;">CoD MW3 2024 Camo Tracker</span>
+                Which camo area do you want to complete?
+            </h2>
+            <div class="area-selector-buttons">
+                <button id="select-zombies-btn">Zombies</button>
+                <button id="select-multiplayer-btn">Multiplayer</button>
+                <button id="select-campaign-btn">Campaign</button>
+            </div>
+        </div>
+    </div>
+    <div id="main-content" style="display:none;">
+        <h1 id="area-title"></h1>
+        <div id="area-content"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
